@@ -1,2 +1,6 @@
 # Hackathon
-Respostas para o Hackathon Santo
+Respostas para o Hackathon Santo Digital
+As resolucões do Desafio 0 estao na pasta TarefaLogica, La vai ter dois arquivos funcoes.py com todos as funcoes do desafio0 e menu.py para chamar essas funcoes, execute o menu e ira solicitar qual desafio voce quer testar, Tambem deixei o codigo comentado para que tenham noção de como foi criado o codigo.
+O desafio 1 como é somente explicando como usar o dataset AdvetureWorks, achei irrelevante colocar aqui.
+Ja tarefa2 tem as repostas do desafio 2. Foi feita varias consultas em sql no banco de dados do AdventureWorksDW2022.bak cada consulta tem comentando acima dela sua pergunta para que entendam. Deixei o resultado da consulta em ordem em .csv como solicitado
+Por fim na pasta TarefaExtra tera as resoluções do desafio extra, dei preferencia em usar uma extensao de jupiter no vscode, por isso vai estar em .ipynb deixei separado por blocos para facilitar a compreensão. Primeiro bloco faço a conexão com o sql server, por isso, se tentar rodar em sua maquina pode da erro, para executar use AdventureWorksDW2022.bak no banco de dados e faça sua conexão do sql server com vscode. No segundo bloco coloco a Query em sql. No terceiro bloco imprimo os dados da consulta e por fim no quarto bloco configuro grafico e mostro o mesmo. Ao final de cada codigo ira ja ter o grafico resultante.
